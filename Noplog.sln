@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noplog", "Noplog\Noplog.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noplog.UnitTests", "Noplog.UnitTests\Noplog.UnitTests.csproj", "{F6FDA736-5EC4-4BA5-BD5D-990EB5643096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noptual", "Noptual\Noptual.csproj", "{845FF841-C377-4026-8553-6E1F8754D5B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F6FDA736-5EC4-4BA5-BD5D-990EB5643096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6FDA736-5EC4-4BA5-BD5D-990EB5643096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6FDA736-5EC4-4BA5-BD5D-990EB5643096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845FF841-C377-4026-8553-6E1F8754D5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845FF841-C377-4026-8553-6E1F8754D5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845FF841-C377-4026-8553-6E1F8754D5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845FF841-C377-4026-8553-6E1F8754D5B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
